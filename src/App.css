@@ -1,0 +1,25 @@
+.title{
+  text-align: center;
+}
+
+.divTable{
+  display: flex;
+  justify-content: center;
+}
+th,td,table{
+  border: black 1px solid;
+  
+}
+th{
+  background-color: #2778d6;
+  color: white;
+}
+th h1{
+  color: white;
+}
+
+td:hover{
+  cursor: pointer;
+  outline: black solid 2px;
+}
+
